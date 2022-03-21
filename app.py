@@ -209,7 +209,7 @@ WalkingDownstairs) motion info will be sign.\n
     ),
 
     html.Div(children='''
-        Conclusion:\nThe maximum acceleration is a better variable to distinguish non-moving activities (blue 'standing', red 'sitting' and green 'laying') from moving activities (purple 'walk', prange 'walkdown' and lightblue 'walkup'\
+        Conclusion:\nThe maximum acceleration is a better variable to distinguish non-moving activities (blue 'standing', red 'sitting' and green 'laying') from moving activities (purple 'walk', orange 'walkdown' and lightblue 'walkup'\
 EXPECTATIONS: Clustering analysis on maximum acceleration should distinguish better the activities
     '''),
 
